@@ -31,11 +31,13 @@ html {
 @import "mixins/text-emphasis";
 @import "mixins/text-hide";
 @import "mixins/deprecate";
+@import "mixins/box-shadow";
 @import "vendor/rfs";
 
 @import "grid";
 @import "nav";
 @import "navbar";
+@import "modal";
 @import "transitions";
 @import "utilities/display";
 @import "utilities/flex";
