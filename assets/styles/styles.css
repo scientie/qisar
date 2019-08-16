@@ -3063,7 +3063,8 @@ button {
 .nav-item a {
   font-family: 'Raleway';
   font-weight: 700;
-  text-decoration: none; }
+  text-decoration: none;
+  font-size: 12px; }
 
 .navbar-brand {
   margin-right: 37px; }
