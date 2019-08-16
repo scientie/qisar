@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="buyer" transform="translate(-1 -1)">
+        <path id="Path_1" d="M33.2 35.552a3.458 3.458 0 0 0-.12-6.128l-10.521-5.263a11.036 11.036 0 0 0-4.323-1.126A8 8 0 1 0 8 23.233 9.009 9.009 0 0 0 1 32v10a5.006 5.006 0 0 0 5 5v12a3.983 3.983 0 0 0 7 2.618A3.983 3.983 0 0 0 20 59V31.1l10.1 4.59a3.412 3.412 0 0 0 1.144.28l4.5 15.314a2.985 2.985 0 0 0-.016 5.425 4.008 4.008 0 1 0 6.716.291h11.113A3.95 3.95 0 0 0 53 59a4 4 0 1 0 4-4H37a1 1 0 0 1 0-2h23.8l2.175-9.783L63 41H34.807zM7 17a6 6 0 1 1 6 6 6.006 6.006 0 0 1-6-6zm13.217 12H18v30a2 2 0 0 1-4 0V40h-2v19a2 2 0 0 1-4 0V30H6v15a3 3 0 0 1-3-3V32a7.008 7.008 0 0 1 7-7h7.64a9.049 9.049 0 0 1 4.024.95l10.525 5.263a1.47 1.47 0 0 1-1.261 2.656zM41 59a2 2 0 1 1-2-2 2 2 0 0 1 2 2zm18 0a2 2 0 1 1-2-2 2 2 0 0 1 2 2zm1.976-16L59.2 51H37.749L35.4 43z" class="cls-1" data-name="Path 1"/>
+        <path id="Path_2" d="M48 27a11 11 0 1 0-11-11 11.013 11.013 0 0 0 11 11zm0-20a9 9 0 1 1-9 9 9.01 9.01 0 0 1 9-9z" class="cls-1" data-name="Path 2"/>
+        <path id="Path_3" d="M48 19a1 1 0 0 1-1-1h-2a3 3 0 0 0 2 2.816V23h2v-2h2v-3a3 3 0 0 0-3-3 1 1 0 0 1-1-1v-1h1a1 1 0 0 1 1 1h2a3 3 0 0 0-2-2.816V9h-2v2h-2v3a3 3 0 0 0 3 3 1 1 0 0 1 1 1v1z" class="cls-1" data-name="Path 3"/>
+        <path id="Path_4" d="M53 15h2v2h-2z" class="cls-1" data-name="Path 4"/>
+        <path id="Path_5" d="M41 15h2v2h-2z" class="cls-1" data-name="Path 5"/>
+        <path id="Path_6" d="M41 29.256v11.362l7-3.5 7 3.5V29.256a15 15 0 1 0-14 0zm2 .869a14.86 14.86 0 0 0 4 .824v4.432l-4 2zm10 7.257l-4-2V30.95a14.9 14.9 0 0 0 4-.824zM48 3a13 13 0 1 1-13 13A13.015 13.015 0 0 1 48 3z" class="cls-1" data-name="Path 6"/>
+        <path id="Path_7" d="M53 45h2v4h-2z" class="cls-1" data-name="Path 7"/>
+        <path id="Path_8" d="M47 45h2v4h-2z" class="cls-1" data-name="Path 8"/>
+        <path id="Path_9" d="M41 45h2v4h-2z" class="cls-1" data-name="Path 9"/>
+    </g>
+</svg>
