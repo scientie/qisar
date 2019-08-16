@@ -89,7 +89,7 @@
                             class="font-weight-bold ">revolucionando a maneira
                             de fazer negócios.</span></p>
                 </div>
-                <div class="col-xl-6 col-xs-12 videoBackground">
+                <div class="col-xl-6 col-xs-12 videoBackground" data-toggle="modal" data-src="https://www.youtube.com/embed/RkQzRUBBSVQ" data-target="#myModal">
                     <img src="assets/images/video.png">
                 </div>
             </div>
@@ -258,7 +258,7 @@
                             <a href="https://facebook.com/Qisar-511687522904474" target="_blank">
                                 <span>www.facebook.com/qisar</span>
                             </a>
-                            
+
                         </li>
                         <li>
                             <img src="assets/images/linkedin-logo.png" alt="LinkedIn Icon">
@@ -271,11 +271,16 @@
             </div>
         </div>
     </footer>
-    <div id="videoBackground" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="videoBackground" aria-hidden="true">
-        <div class="modal-dialog">
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-body">
-                    <iframe width="100%" height="400px" frameborder="0" allowfullscreen=""></iframe>
+                    <!-- 16:9 aspect ratio -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RkQzRUBBSVQ?autoplay=1&amp;modestbranding=1&amp;showinfo=0" id="video" allowscriptaccess="always"
+                            allow="autoplay"></iframe>
+                    </div>
                 </div>
             </div>
         </div>
