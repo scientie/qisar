@@ -3058,16 +3058,16 @@ button {
   margin-top: 0px; }
 
 .nav-item {
-  margin-right: 18px; }
+  margin-right: 10px; }
 
 .nav-item a {
   font-family: 'Raleway';
   font-weight: 700;
   text-decoration: none;
-  font-size: 12px; }
+  font-size: 13px; }
 
 .navbar-brand {
-  margin-right: 37px; }
+  margin-right: 25px; }
 
 .navbar.scroll {
   background-color: #fff;
@@ -3419,6 +3419,8 @@ footer {
       font-family: Raleway;
       font-size: 20px;
       font-weight: 600; }
+    footer ul a {
+      text-decoration: none; }
   @media screen and (max-width: 480px) {
     footer ul {
       padding-left: 0px; } }
